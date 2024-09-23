@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.requirements{
+    text-align: center;
+    background-color: grey;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 3px;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+body {
+    background-color: darkslategray;
+}
+.sign-up h1{
+    color: white;
+    font-size: 50px;
+}
+button {
+    margin-bottom: 30px;
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 80px;
+    cursor: pointer;
+    
+}
+
+input{
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    background-color: transparent;
+    border-bottom: 1px solid wheat ;
+    color:wheat;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid wheat ;
+
+}
+
+form {
+    color: white;
+    background-color: grey;
+    border-radius: 10px;
+    padding: 40px;
+
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+.head a{
+    text-decoration: none;
+    color: wheat;
+}  
+
